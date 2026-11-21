@@ -27,3 +27,10 @@ Use the questions as prompts for active recall: attempt an answer first, explain
 
 ## Project status
 Learning / interview-preparation frontend. The exact question coverage is determined by the content currently stored in the repository.
+
+
+---
+
+## Live Demo
+
+[Open the deployed application](https://mahashri.github.io/Ai_Interview_Questions/)
